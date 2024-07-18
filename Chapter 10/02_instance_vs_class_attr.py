@@ -1,6 +1,6 @@
 class Employee: 
     language = "Python" # This is a class attribute
-    salary = 1200000
+    salary = 120000
 
 
 harry = Employee()
